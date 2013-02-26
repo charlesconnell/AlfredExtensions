@@ -1,4 +1,6 @@
 AlfredExtensions
 ================
 
-Extensions for the Alfred productivity app
+Current Time Millis
+===================
+Copies the current time in milliseconds to the clipboard and then pastes it
